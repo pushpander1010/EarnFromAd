@@ -26,6 +26,6 @@ Welcome to **EarnFromAd** – the complete source code for a platform where user
 
 | Frontend | Backend | Database | Other |
 |----------|---------|----------|-------|
-| HTML, CSS, JavaScript (or React) | Node.js (or Django / Flask) | MongoDB / MySQL | JWT, REST API, Ad SDKs |
+| HTML, CSS, JavaScript (or React) | Java springboot | MongoDB / MySQL | JWT,OAuth, REST API, Ad SDKs |
 
 ---
